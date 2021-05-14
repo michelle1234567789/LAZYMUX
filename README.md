@@ -2,7 +2,7 @@
 
 > Lazymux is python based tool in this tool
 
-![Lazymux](https://user-images.githubusercontent.com/75029023/118286530-20854180-b505-11eb-8800-51ab2cee9273.jpg)
+![Lazymux](https://user-images.githubusercontent.com/75029023/118287671-40693500-b506-11eb-9b39-0be51cd98d6d.jpg)
 
 ### ✰𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽✰ :
 
