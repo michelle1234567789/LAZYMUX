@@ -1,6 +1,7 @@
 ### ༒︎᯾𝐋𝐀𝐙𝐘𝐌𝐔𝐗᯾༒︎
 
 > Lazymux is python based tool in this tool
+
 ![lll](https://user-images.githubusercontent.com/75029023/118286241-d8661f00-b504-11eb-85b2-f761d33a9947.PNG
 
 ### ✰𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽✰ :
